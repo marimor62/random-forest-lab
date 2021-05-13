@@ -1,4 +1,4 @@
-# Random-forest-lab
+# Random forest lab
 
 In this [git folder](https://github.com/student-IH-labs-and-stuff/BER-DAFT-MAR21/tree/main/Labs/Cookies_Lab) you will find 3 csv files about cookies. These rows are gathered via an extended experiment with making batches of cookies. You will also find a jupyter notebook. 
 
